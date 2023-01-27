@@ -6,4 +6,4 @@ for(let i=0; i<nums.length;i++){
         suma+=i;
     }
 }
-console.log("suma indices="+suma);
+console.log("suma ="+suma);
